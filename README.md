@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi I'm **Ranjit Mali** 👋  
+A passionate Software Developer focused on building scalable web application
 
-<!--
-**Ranjit1232/Ranjit1232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+💬 Ask me about **Java, DSA, MySQL**  
+📫 How to reach me ranjitmali7677@gmail.com 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+### 🧠 Skills
+**Languages:** Java, JavaScript  
+**Frontend:** HTML5, CSS3, Bootstrap, React.js  
+**Backend:** Node.js, Express.js, REST APIs  
+**Databases:** MongoDB, MySQL, Firebase  
+**Tools & Platforms:** Git, GitHub, VS Code  
+
+---
+
+### 🌐 Connect with Me
+[LinkedIn](https://linkedin.com/in/ranjit-mali-37852b283)  
