@@ -11,7 +11,6 @@ A passionate Software Developer focused on building scalable web application
 ### 🧠 Skills
 **Languages:** Java, JavaScript  
 **Frontend:** HTML5, CSS3, Bootstrap, React.js, Angular 
-
 **Backend:** Node.js, Express.js, Spring Boot, Spring, Hibernate, REST APIs  
 **Databases:** MongoDB, MySQL, Oracle  
 **Tools & Platforms:** Git, GitHub, VS Code, Eclipse
